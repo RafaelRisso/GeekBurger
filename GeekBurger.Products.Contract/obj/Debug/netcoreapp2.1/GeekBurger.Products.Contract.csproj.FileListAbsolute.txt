@@ -1,0 +1,9 @@
+C:\microservices\GeekBurger.Products.Contract\bin\Debug\netcoreapp2.1\GeekBurger.Products.Contract.deps.json
+C:\microservices\GeekBurger.Products.Contract\bin\Debug\netcoreapp2.1\GeekBurger.Products.Contract.dll
+C:\microservices\GeekBurger.Products.Contract\bin\Debug\netcoreapp2.1\GeekBurger.Products.Contract.pdb
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.csprojAssemblyReference.cache
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.AssemblyInfoInputs.cache
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.AssemblyInfo.cs
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.csproj.CoreCompileInputs.cache
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.dll
+C:\microservices\GeekBurger.Products.Contract\obj\Debug\netcoreapp2.1\GeekBurger.Products.Contract.pdb
